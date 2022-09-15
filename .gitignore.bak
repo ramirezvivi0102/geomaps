@@ -75,6 +75,3 @@ baseline.json
 
 # Husky
 .husky/_
-
-node_modules
-.angular/cache
